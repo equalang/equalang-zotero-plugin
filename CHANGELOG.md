@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.1.9 (2026-11-21)
+
+- Your Equalang credit history now names the paper: selections made in the reader show the paper's title, and so do title and abstract translations when you signed in through the browser. Only the title is sent: no file path, link, DOI, item key or library ID.
+
+## 0.1.8 (2026-11-04)
+
+- Selection translation: dictionary entries show sooner. When the source language is known, the dictionary is looked up without waiting for the translation; while the AI explanation is on its way, its place says "Loading…".
+- Selection translation: selecting an inflected form says what it is beside its headword, for example "comparative of high".
+- Selection translation: the sources line names every dictionary shown, including the one the pronunciations come from.
+- Document translation: opening translations when they're done is now an option, off by default: "Open translations when they're done" in the confirm dialog (your choice is remembered), and the same option in Settings.
+- The confirm dialog's spinner stops once the credits are worked out.
+- "Settings…" is translated in the 23 interface languages where Zotero itself leaves it in English.
+
 ## 0.1.5 (2026-10-26)
 
 First public release.

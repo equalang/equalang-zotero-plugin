@@ -39,7 +39,7 @@ Sau đó, plugin sẽ tự động cập nhật cùng Zotero; bạn cũng có th
 
 - **Đọc đối chiếu song song**: Mở bản đối chiếu song ngữ, trong trình đọc chọn “Cách xem → Spreads → Odd”, bản gốc và bản dịch sẽ được hiển thị song song hai bên.
 - **Dịch văn bản đã chọn**: Chỉ cần chọn văn bản trong trình đọc. Bạn cũng có thể đổi cài đặt sang hiện nút “Dịch” trước, nhấp vào nút mới dịch.
-- **Cài đặt**: Tại "Các công cụ → Equalang → Settings…", bạn có thể thiết lập ngôn ngữ dịch sang, tệp PDF là bản đối chiếu song ngữ hay chỉ bản dịch, vị trí lưu bản dịch, có mở bản dịch sau khi hoàn tất hay không, cũng như có tối ưu hóa bố cục công thức trong PDF hay không (sẽ trừ thêm điểm).
+- **Cài đặt**: Tại "Các công cụ → Equalang → Cài đặt…", bạn có thể thiết lập ngôn ngữ dịch sang, tệp PDF là bản đối chiếu song ngữ hay chỉ bản dịch, vị trí lưu bản dịch, có mở bản dịch sau khi hoàn tất hay không, cũng như có tối ưu hóa bố cục công thức trong PDF hay không (sẽ trừ thêm điểm).
 
 ## Câu hỏi thường gặp
 
