@@ -38,7 +38,7 @@ A partir de ahí, el plugin se actualizará automáticamente con Zotero; tambié
   ![Traducción con Equalang en el menú contextual](../images/context-menu.png)
 
 - **Lectura en paralelo**: Abre la versión bilingüe y, en el lector, selecciona «Ver → Difusión → Extraño» para ver el original y la traducción uno al lado del otro.
-- **Traducción de texto seleccionado**: Basta con seleccionar texto en el lector. En los ajustes también puedes cambiar a «Mostrar primero el botón «Traducir»» para traducir solo tras pulsar el botón.
+- **Traducción de texto seleccionado**: Selecciona texto en el lector y pasa el cursor sobre la barra de traducción debajo de los colores de resaltado o haz clic en ella. En los ajustes también puedes cambiar a «Traducir en cuanto se seleccione texto».
 - **Ajustes**: En «Herramientas → Equalang → Ajustes…», puedes configurar el idioma de destino, si los PDF deben ser bilingües o solo traducción, dónde guardar los archivos traducidos, si «Abrir la traducción al finalizar» y si optimizar el diseño de fórmulas en PDF (consume créditos adicionales).
 
 ## Preguntas frecuentes

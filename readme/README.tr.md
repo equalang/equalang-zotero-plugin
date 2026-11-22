@@ -38,7 +38,7 @@ Bundan sonra eklenti Zotero ile birlikte otomatik olarak güncellenir; dilerseni
   ![Sağ tık menüsünde Equalang ile çeviri](../images/context-menu.png)
 
 - **Yan yana karşılaştırmalı okuma**: Karşılaştırmalı sürümü açın ve okuyucuda «Görünüm → İki sayfalı görünüm → Tek numaralı» yolunu seçin; orijinal ve çeviri metin yan yana görüntülenecektir.
-- **Seçim çevirisi**: Okuyucuda metni seçmeniz yeterlidir. Dilerseniz ayarlardan «Önce bir Çevir düğmesi göster» olarak değiştirip yalnızca tıkladığınızda çevrilmesini sağlayabilirsiniz.
+- **Seçim çevirisi**: Okuyucuda metni seçip vurgulama renklerinin altındaki çeviri çubuğunun üzerine gelin veya tıklayın. Dilerseniz ayarlardan «Metin seçildiğinde hemen çevir» seçeneğine geçebilirsiniz.
 - **Ayarlar**: «Araçlar → Equalang → Ayarlar...» menüsünden hedef dili, PDF için karşılaştırmalı mı yoksa yalnızca çeviri mi olacağını, çevirilerin nereye kaydedileceğini, «Tamamlandığında çeviriyi aç» seçeneğini ve PDF formül düzeni optimizasyonunu (ek kredi harcar) belirleyebilirsiniz.
 
 ## Sıkça Sorulan Sorular

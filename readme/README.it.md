@@ -38,7 +38,7 @@ In seguito il plugin si aggiornerà automaticamente con Zotero; puoi anche verif
   ![Traduzione con Equalang nel menu contestuale](../images/context-menu.png)
 
 - **Lettura con testo a fronte**: Apri la versione bilingue e, nel lettore, seleziona “Aspetto → Disposizione → Dispari” per visualizzare il testo originale e la traduzione affiancati.
-- **Traduzione del testo selezionato**: Basta selezionare il testo nel lettore. Nelle impostazioni puoi anche scegliere “Mostra prima il pulsante “Traduci”” per tradurre solo dopo aver fatto clic.
+- **Traduzione del testo selezionato**: Seleziona il testo nel lettore e passa il puntatore sulla barra di traduzione sotto i colori di evidenziazione o fai clic su di essa. Nelle impostazioni puoi anche scegliere “Traduci non appena il testo viene selezionato”.
 - **Impostazioni**: In “Strumenti → Equalang → Impostazioni…”, puoi impostare la lingua di destinazione, se creare PDF bilingui o solo traduzione, dove salvare i file tradotti, se attivare “Apri la traduzione al termine” e se ottimizzare l'impaginazione delle formule nei PDF (consuma crediti aggiuntivi).
 
 ## Domande frequenti

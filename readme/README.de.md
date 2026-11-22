@@ -38,7 +38,7 @@ Danach aktualisiert sich das Plugin automatisch mit Zotero; Updates können auch
   ![Equalang-Übersetzung im Kontextmenü](../images/context-menu.png)
 
 - **Seite an Seite lesen**: Die zweisprachige Version öffnen und im Reader „Ansicht → Seiten → Ungerade“ wählen, damit Original und Übersetzung nebeneinander angezeigt werden.
-- **Auswahlübersetzung**: Einfach Text im Reader markieren. In den Einstellungen kann auch zu „Zuerst Schaltfläche „Übersetzen“ anzeigen“ gewechselt werden, um erst nach dem Klicken zu übersetzen.
+- **Auswahlübersetzung**: Text im Reader markieren und den Mauszeiger kurz auf die Übersetzungsleiste unter den Markierungsfarben bewegen oder darauf klicken. In den Einstellungen kann auch zu „Sofort nach dem Markieren übersetzen“ gewechselt werden.
 - **Einstellungen**: Unter „Werkzeuge → Equalang → Einstellungen...“ lässt sich festlegen, in welche Sprache übersetzt werden soll, ob PDFs zweisprachig oder nur als Übersetzung erstellt werden, wo übersetzte Dateien gespeichert werden, ob „Übersetzung nach Fertigstellung öffnen“ aktiviert sein soll und ob das Formellayout in PDFs optimiert werden soll (verbraucht zusätzliche Credits).
 
 ## Häufig gestellte Fragen

@@ -38,7 +38,7 @@ Setelah itu, plugin akan diperbarui secara otomatis bersama Zotero; Anda juga da
   ![Terjemahan Equalang di menu klik kanan](../images/context-menu.png)
 
 - **Membaca berdampingan**: Buka versi dwibahasa, lalu di pembaca pilih "Lihat → Spreads → Odd" agar teks asli dan terjemahan tampil berdampingan.
-- **Terjemahan teks terpilih**: Cukup pilih teks di pembaca. Anda juga dapat mengubah pengaturan menjadi "Tampilkan tombol Terjemahkan terlebih dahulu" agar terjemahan baru berjalan setelah tombol diklik.
+- **Terjemahan teks terpilih**: Pilih teks di pembaca lalu arahkan kursor atau klik bilah terjemahan di bawah warna sorotan. Anda juga dapat mengubah pengaturan menjadi "Terjemahkan segera setelah teks dipilih".
 - **Pengaturan**: Di "Perkakas → Equalang → Pengaturan…", Anda dapat menentukan bahasa terjemahan, memilih format PDF dwibahasa atau hanya terjemahan, lokasi penyimpanan terjemahan, apakah akan mengaktifkan "Buka terjemahan setelah selesai", serta apakah ingin mengoptimalkan tata letak rumus pada PDF (mengonsumsi kredit tambahan).
 
 ## Pertanyaan yang Sering Diajukan

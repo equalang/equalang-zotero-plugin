@@ -38,7 +38,7 @@ From then on the plugin updates automatically with Zotero; you can also check fo
   ![Translate with Equalang in the context menu](images/context-menu.png)
 
 - **Side-by-side reading**: Open the bilingual edition; in the reader, View → Spreads → Odd shows the original and translation side by side.
-- **Selection translation**: Simply select text in the reader. You can also change the setting to “Show a Translate button first” to translate only after clicking it.
+- **Selection translation**: Select text in the reader and hover over or click the Translate bar below Zotero's highlight colors to open the translation. You can also switch to “Translate as soon as text is selected” in Settings.
 - **Settings**: Under Tools → Equalang → Settings…, you can set the target language, choose whether PDFs should be bilingual or translation only, where translations are saved, whether to “Open translations when they're done”, and whether to optimize formula layout in PDFs (costs extra credits).
 
 ## FAQ

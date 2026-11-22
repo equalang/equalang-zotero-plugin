@@ -38,7 +38,7 @@ Od tej pory wtyczka aktualizuje się automatycznie wraz z Zotero; dostępność 
   ![Tłumaczenie Equalang w menu kontekstowym](../images/context-menu.png)
 
 - **Czytanie obok siebie**: otwórz wersję dwujęzyczną i wybierz w czytniku „Widok → Spreads → Nieparzyste” — oryginał i tłumaczenie wyświetlą się obok siebie.
-- **Tłumaczenie zaznaczenia**: po prostu zaznacz tekst w czytniku. W ustawieniach możesz też zmienić tę opcję na „Najpierw wyświetlaj przycisk tłumaczenia”, aby tłumaczyć dopiero po kliknięciu.
+- **Tłumaczenie zaznaczenia**: zaznacz tekst w czytniku i najedź kursorem na pasek tłumaczenia pod kolorami wyróżnienia lub kliknij go. W ustawieniach możesz też zmienić tę opcję na „Tłumacz natychmiast po zaznaczeniu tekstu”.
 - **Ustawienia**: w menu „Narzędzia → Equalang → Ustawienia…” można ustawić język docelowy, wybrać, czy plik PDF ma być dwujęzyczny, czy zawierać tylko tłumaczenie, wskazać miejsce zapisu, zdecydować, czy włączyć opcję „Otwórz tłumaczenie po zakończeniu”, a także włączyć optymalizację układu wzorów w plikach PDF (pobiera dodatkowe kredyty).
 
 ## Często zadawane pytania

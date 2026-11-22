@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.10 (2026-11-22)
+
+- Selection translation now starts as a compact Translate bar below Zotero's highlight colors by default, keeping the popup narrow when you are only highlighting text. Hover over the bar briefly or click it to open the translation; you can still choose "Translate as soon as text is selected" in Settings.
+
 ## 0.1.9 (2026-11-21)
 
 - Your Equalang credit history now names the paper: selections made in the reader show the paper's title, and so do title and abstract translations when you signed in through the browser. Only the title is sent: no file path, link, DOI, item key or library ID.

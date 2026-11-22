@@ -38,7 +38,7 @@ Par la suite, l’extension se met à jour automatiquement avec Zotero ; vous po
   ![Traduction avec Equalang dans le menu contextuel](../images/context-menu.png)
 
 - **Lecture bilingue côte à côte** : Ouvrez la version bilingue, puis choisissez dans le lecteur « Affichage → Double affichage → Pair » pour afficher le texte original et la traduction côte à côte.
-- **Traduction de sélection** : Sélectionnez simplement du texte dans le lecteur. Vous pouvez aussi choisir dans les paramètres « Afficher d'abord le bouton Traduire » pour ne traduire qu'après avoir cliqué.
+- **Traduction de sélection** : Sélectionnez du texte dans le lecteur, puis survolez ou cliquez sur la barre de traduction sous les couleurs de surlignage. Vous pouvez aussi choisir dans les paramètres « Traduire dès que le texte est sélectionné ».
 - **Paramètres** : Dans « Outils → Equalang → Paramètres... », vous pouvez configurer la langue cible, choisir entre version bilingue ou traduction seule pour les PDF, définir l'emplacement de sauvegarde des fichiers traduits, choisir « Ouvrir la traduction une fois terminée », et activer l'optimisation de la mise en page des formules dans les PDF (consomme des crédits supplémentaires).
 
 ## Questions fréquentes
